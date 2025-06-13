@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+nvidia-riva-client
